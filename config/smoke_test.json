@@ -1,0 +1,8 @@
+{
+  "vehicle_count": 5,
+  "simulation_steps": 120,
+  "step_length_seconds": 1.0,
+  "road_length_meters": 1000,
+  "vehicle_departure_spacing_seconds": 2,
+  "rsu_positions_meters": [250, 500, 750]
+}

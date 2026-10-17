@@ -1,0 +1,3 @@
+<additional><poi id="RSU1_250m" type="RSU" color="red" x="250" y="4" layer="10"/>
+<poi id="RSU2_500m" type="RSU" color="blue" x="500" y="4" layer="10"/>
+<poi id="RSU3_750m" type="RSU" color="green" x="750" y="4" layer="10"/></additional>

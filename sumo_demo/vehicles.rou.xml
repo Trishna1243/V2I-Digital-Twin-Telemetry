@@ -1,0 +1,15 @@
+<routes><vType id="passenger" accel="2.6" decel="4.5" length="5" maxSpeed="13.89"/><route id="straight" edges="road"/><vehicle id="veh0" type="passenger" route="straight" depart="0" />
+<vehicle id="veh1" type="passenger" route="straight" depart="2" />
+<vehicle id="veh2" type="passenger" route="straight" depart="4" />
+<vehicle id="veh3" type="passenger" route="straight" depart="6" />
+<vehicle id="veh4" type="passenger" route="straight" depart="8" />
+<vehicle id="veh5" type="passenger" route="straight" depart="10" />
+<vehicle id="veh6" type="passenger" route="straight" depart="12" />
+<vehicle id="veh7" type="passenger" route="straight" depart="14" />
+<vehicle id="veh8" type="passenger" route="straight" depart="16" />
+<vehicle id="veh9" type="passenger" route="straight" depart="18" />
+<vehicle id="veh10" type="passenger" route="straight" depart="20" />
+<vehicle id="veh11" type="passenger" route="straight" depart="22" />
+<vehicle id="veh12" type="passenger" route="straight" depart="24" />
+<vehicle id="veh13" type="passenger" route="straight" depart="26" />
+<vehicle id="veh14" type="passenger" route="straight" depart="28" /></routes>

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Test and tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated simulation output
+# Keep assignment results and plots in Git
+*.trip.xml
+*.fcd.xml
+*.vehroute.xml
+*.sumocfg~
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

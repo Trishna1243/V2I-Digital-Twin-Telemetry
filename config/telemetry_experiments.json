@@ -1,0 +1,24 @@
+{
+  "vehicle_counts": [5, 10, 20, 50, 100],
+  "upload_intervals_ms": [50, 100, 500],
+  "telemetry_fields_bytes": {
+    "position": 12,
+    "speed": 4,
+    "heading": 4,
+    "acceleration": 4,
+    "timestamp": 8
+  },
+  "channel": {
+    "carrier_frequency_ghz": 5.9,
+    "bandwidth_mhz": 10.0,
+    "transmit_power_dbm": 20.0,
+    "noise_density_dbm_per_hz": -174.0,
+    "noise_figure_db": 9.0,
+    "reference_distance_m": 1.0
+  },
+  "path_loss_exponents": [3.0, 3.5],
+  "sumo_step_seconds": 0.05,
+  "sumo_duration_seconds": 120.0,
+  "vehicle_departure_spacing_seconds": 0.5,
+  "vehicle_initial_distribution_fraction": 0.75
+}
